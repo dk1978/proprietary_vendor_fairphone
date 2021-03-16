@@ -1173,3 +1173,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon
+
+AB_OTA_PARTITIONS +=  modem dsp
+
